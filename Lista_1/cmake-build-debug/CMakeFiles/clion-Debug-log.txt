@@ -1,0 +1,10 @@
+/home/iulli/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/iulli/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/iulli/Projects/C/Lab_Lógica_Programação_25_1/Lista_1 -B /home/iulli/Projects/C/Lab_Lógica_Programação_25_1/Lista_1/cmake-build-debug
+-- The C compiler identification is GNU 14.2.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/iulli/Projects/C/Lab_Lógica_Programação_25_1/Lista_1/cmake-build-debug
