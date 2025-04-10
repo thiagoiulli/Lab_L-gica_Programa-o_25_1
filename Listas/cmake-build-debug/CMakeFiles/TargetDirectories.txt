@@ -1,3 +1,0 @@
-/home/iulli/Projects/C/Lab_Lógica_Programação_25_1/Lista_1/cmake-build-debug/CMakeFiles/Lista_1.dir
-/home/iulli/Projects/C/Lab_Lógica_Programação_25_1/Lista_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/iulli/Projects/C/Lab_Lógica_Programação_25_1/Lista_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
